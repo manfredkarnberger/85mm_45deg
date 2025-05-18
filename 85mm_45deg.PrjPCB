@@ -123,6 +123,10 @@ DItemRevisionGUID=
 DocumentPath=Output\85mm_45deg\85mm_45deg.REP
 DItemRevisionGUID=
 
+[GeneratedDocument11]
+DocumentPath=Output\Design Rule Check - 85mm_45deg.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Autor
 Value=513mk

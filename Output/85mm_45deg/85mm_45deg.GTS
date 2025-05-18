@@ -6,7 +6,11 @@ G04 Layer_Color=8388736*
 %MOMM*%
 G71*
 G04*
+<<<<<<< HEAD
 G04 #@! TF.SameCoordinates,6140B25F-4C27-492A-9782-77A60290FADA*
+=======
+G04 #@! TF.SameCoordinates,63EED4D7-2B62-4546-9665-C9956AE07003*
+>>>>>>> 53522a86088ad27609dabe21cc5cf6d408bb42ac
 G04*
 G04*
 G04 #@! TF.FilePolarity,Negative*
